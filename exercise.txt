@@ -1,0 +1,17 @@
+#1. http stands for hypertext transfer protocol. It is the standard for transfering information web browsers and networks.
+
+#2. url stands for Uniform Resource locator. It carries information like protocol type, to what host, the port, any resources, and query strings.
+
+#3. DNS is Domain Name System. It is like a phone book that matches IP addresses with hostnames so you don't have to memorize IP addresses.
+
+#4 a query string is a string that contains data that the browser sends as part of a request to the server. query strings often include search terms from website search bars.
+
+#5. the two http verbs are GET and POST. GET just makes a request for the server to retrieve data. POST makes a request to send data to modify the server.
+
+#6. An HTTP request is a request from a browser or client to a server. 
+
+#7. An HTTP response is the response from the server to the client's request.
+
+#8. An HTTP header is part of a request/response that contains specifi data like the date/time the browser thinks it is, what language the page content should be loaded in, and cookie info.
+
+#9 when you type that link in a browser, the browser makes an HTTP GET request to the server at somesite.com for the files under some/page.html. THe server then responds by sending the html file that the browser then renders and displays in the browser window.
